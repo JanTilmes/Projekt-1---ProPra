@@ -1,0 +1,88 @@
+0000    Allgemeine Bereiche
+0001    Büroräume, Sozialräume, Unterkünfte und Treppenräume
+0002    Läger, Solianlagen (auch im Freien)
+0003    Elektrische Betriebsräume, -Bereiche (auch im Freien)
+0004    Laboratorien, Dauerversuchsräume
+0005    Elektronische Daten- Verarbeitung
+0006    Transportanlagen. Fördersysteme
+0007    Freiflächen (Straßen, Hof)
+0008    Dienstleistungsbetriebe
+0009    sonstige Betriebe
+
+0100    Grundsoffindustrie
+0101    Erze
+0102    Kohle, Koks
+0103    Gas
+0104    Erdöl
+0105    Kali, Saline
+
+0200    Steine, Erden
+0201    Steinbrüche und Gruben für Kies, Sand, Ton, Gips, Kalk und Quarz
+0202    Herstellung von Zement, Kalk, Gips, und feuerfesten Materialien
+0203    Keramik, Glas, Ziegel
+0204    Bauindustrie, Baustoffe, Bauteile, Baustellen
+0205    Bitumen-Mischanlagen, Teersplit
+
+0300    Metallverarbeitung
+0301    Metallerzeugung, Metallverarbeitung bis zum Halbzeug (Hochofen, Verhüttung, Giessereien, Walzwerke)
+0302    Metallver- und -barbeitung
+0303    Fahrzeugbau, Wartung, Reperatur
+0304    Luftfahrzeugbau, Wartung, Reperatur, Flughafenbetriebe
+0305    Schiffbau
+0306    Elektronische Betriebe
+
+0400    Chemie, Kunststoffe
+0401    Raffinerien einschließlich Produktlagerung
+0402    Herstellung von Kunststoffen, Farben und Lacke
+0403    Verarbeitung von Kunst-, Schaumstoffen, Farben und Lacke
+0404    Pharmazeutische und kosmetische Stoffe
+0405    Düngemittelindustrie
+0406    Herstellung von Pulver, Sprengstoff, Zündwaren und anderen pyrotechnischen Erzeugnissen
+0407    Sonstige chemische Fabriken
+0408    Tankstellen und Tankläger
+
+0500    Textil
+0501    Faserherstellung
+0502    Faserverarbeitung
+0503    Bekleidungsindustrie
+0504    Bett- und Polsterware
+0505    Waschanstalten, chemische Reinigung und Färberei
+
+0600    Leder, Papier
+0601    Lederherstellung    
+0602    Lederverarbeitung
+0603    Gummiherstellung und -verarbeitung
+0604    Papier- und Zellstoffherstellung
+0605    Papier- und Zellstoffverarbeitung
+0606    Dachpappenherstellung
+0607    Druckereien, Buchbindereien
+
+0700    Holz
+0701    Sägewerke
+0702    Spanplattenherstellung
+0703    Holzverarbeitung
+0704    Kork- und Korbwaren
+
+0800    Nahrungs- und Genußmittel
+0801    Getränkeindustrie (Mälzen, Brauen, Brennen, Kellern, Mineralwässer, Limonaden)  
+0802    Mühlenbetriebe und Futtermittelbetriebe
+0803    Milch-, Fleisch-, Fischverarbeitung, Konservenfabriken
+0804    Süßwarenindustrie
+0805    Zuckerindustrie
+0806    Tabakwarenindustrie
+0807    Backwarenherstellung, Darr-. Fritier- und Röstbetriebe
+0808    Speiseöl-, Speisefettherstellung
+0809    Kühlhäuser
+
+0900    Sonstige industrielle und großgewerbliche Betriebe
+0901    Versammlungsstätten (Theater, Zirkus, Kino, Burgen, Sportstätten, Kirchen)
+0902    Hotel- und Gaststättenbetriebe, Kantinen
+0903    Bars und Diskotheken
+0904    Kauf- und Warenhäuser, Einkaufszentren, Versandhäuser, Markthallen
+0905    Sanatorien, Krankenanstalten, Alters- und Kinderheime
+0906    Parkhäuser, Garagen
+0907    Intensivtierhaltung
+0908    Land- und Forstwirtschaft, Gartenbaubetriebe
+0909    öffentliche Ver- und Entsorgungsbetriebe (Gas, Wasser, Elektrizität, Fernheizwerke, einschließlich Müllverbrennung)
+
+10000   Anlage Mängelfrei
