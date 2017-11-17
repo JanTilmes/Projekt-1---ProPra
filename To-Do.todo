@@ -1,11 +1,15 @@
 ProPra Projekt 1:
-☐ Projekt und genaue Aufgabe(n) zusammenfassen
-☐ Klassendiagramm machen
-☐ Protokoll für Sitzungen
-☐ Formular ausdrucken
+✔ Projekt und genaue Aufgabe(n) zusammenfassen @done (2017-11-15 18:09:14)
+✔ Klassendiagramm machen @done (2017-11-15 18:09:16)
+✔ Formular ausdrucken @done (2017-11-15 18:13:55)
+✔ Protokoll für Sitzungen @done (2017-11-16 18:44:31)
+✔ Roadmap bis Montag (20.11.) @done (2017-11-16 18:44:25)
 ☐ Was kann übers Wochende gemacht werden/welche Fragen können schon geklärt werden?
     ☐ Wie Autovervollständigung?
     ☐ Wie benötigte Daten aus DB laden? (Sowohl für Vorschläge, als auch für gespeicherte Dokumente)
     ☐ Was muss in Datenbank gespeichert werden und wie?
     ☐ GUI-Design
+
+☐ GUI fertigmachen
+
 

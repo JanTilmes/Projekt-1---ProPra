@@ -1,0 +1,32 @@
+-Befundescheine werden Firma zugeordnet
+    -Firma kann mehrere Befundscheine haben
+
+-SK kann:
+            -bestehende Befundscheine ändern und wieder abspeichern
+            -bestehenden Befundschein übernehmen
+                -Rahmendaten und Mängelliste der Firma werden übernommen
+            -neuen Befundschein anlegen
+    
+    Befundschein A:
+        -Bei Eingabe von Text (Mindestanzahl Zeichen?) werden passende Vorschläge aus der Mängelliste gemacht
+        -Textbausteine können ausgewählt und dann noch weiter bearbeitet werden (auch Freitext)
+        -Zugehörige Mängelnummer wird bei Auswahl von Textbaustein automatisch eingetragen
+        -Betriebsbereich auch Vorschläge / Beibehaltung?
+    
+    Mängelliste:
+        -Sollte sortierbar sein
+
+    Befundescheine:
+        -Können gespeicher werden (Datenbank)
+        -Auswertung über alle Befundescheine
+            1. Häufigste pro Firma
+            2. Häufigste über alle Firmen
+            3. Häufigste pro Branche
+            4. Statistik gemäß XML-Vorlage
+    
+    Export in Word und PDF (für PDF: Apache PDFBox, für Word: ?)
+
+    Bisheriges Programm?
+    Roadmap?
+    Projektsprache?
+    Wo Branchenangabe?
